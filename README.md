@@ -1,16 +1,31 @@
 # Goggl - The Most Unique Search Engine in the World
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+![Goggl](/screenshots/search.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+I have used react and a Goole Search API powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+We can do all the functionalities that a google search bar can do including searching data.images,news and videos
+
+Also i have implemented a dark mode in this search page which is very easy to do using tailwind"
+
+Hope you like my project
 
 Setup:
 - run ```npm i && npm start``` to start the development server
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Search
+![Goggl](/screenshots/search.png)
+
+## Images
+![Goggl](/screenshots/images.png)
+
+## News
+![Goggl](/screenshots/news.png)
+
+## Dark-Mode
+![Goggl](/screenshots/dark-mode.png)
+## Tech Stack
+
+React, TailwindCSS 3, Node JS
